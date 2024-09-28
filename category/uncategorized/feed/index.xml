@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; Eduquer-demo</title>
+	<title>Uncategorized &#8211; eduquer-light</title>
 	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
-	<lastBuildDate>Sat, 28 Sep 2024 13:16:17 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 28 Sep 2024 13:48:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -24,8 +24,8 @@
 		<link>/hello-world/</link>
 					<comments>/hello-world/#comments</comments>
 		
-		<dc:creator><![CDATA[eduquer]]></dc:creator>
-		<pubDate>Sat, 28 Sep 2024 13:16:17 +0000</pubDate>
+		<dc:creator><![CDATA[eduquer-light]]></dc:creator>
+		<pubDate>Sat, 28 Sep 2024 13:48:24 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">/?p=1</guid>
 
