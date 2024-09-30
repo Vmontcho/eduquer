@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comments for eduquer-light	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	Commentaires pour 	</title>
+	<atom:link href="https://eduquer.byspirit.org/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://eduquer.byspirit.org/</link>
 	<description></description>
 	<lastBuildDate>Sat, 28 Sep 2024 13:48:24 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,12 +19,12 @@
 	<generator>https://wordpress.org/?v=6.6.2</generator>
 	<item>
 		<title>
-		Comment on Hello world! by A WordPress Commenter		</title>
-		<link>/hello-world/#comment-1</link>
+		Commentaires sur Hello world! par A WordPress Commenter		</title>
+		<link>https://eduquer.byspirit.org/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
 		<pubDate>Sat, 28 Sep 2024 13:48:24 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://eduquer.byspirit.org/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
 To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard.
